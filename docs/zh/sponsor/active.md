@@ -14,7 +14,7 @@ PakePlus 是 Github 开源项目，大部分功能都是免费的，开发和维
 
 ![](../../static/imgs/active3.webp)
 
-私密项目以及 Windows7 和 xp 等国产 Linux Arm 系统支持需要再单独点击同意才可以使用：
+Windows7 和 xp 等国产 Linux Arm 系统支持需要再单独点击同意才可以使用：
 
 ![](../../static/imgs/active4.webp)
 
@@ -25,6 +25,5 @@ PakePlus 是 Github 开源项目，大部分功能都是免费的，开发和维
 
 ## 注意
 
-私密项目打包后，只能本地下载，不支持分享下载链接。  
 ios 免签只支持打包在线网站，不支持静态文件，不支持 APP 更多配置，不支持启动图配置，不支持注入脚本。  
 Electron 版本中不支持使用 Tauri 和 PakePlus 的 api，更多配置中有些配置还不生效。
